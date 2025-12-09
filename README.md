@@ -10,7 +10,7 @@ Learning Objectives
 After completing this tutorial, students will be able to:
 
 - Understand Behavior Tree and Blackboard fundamentals in UE5
-- Set up AI Patrol and Player Detection using Blueprint
+- Set up AI Patrol using Blueprint
 
 
 AI Behavior Overview
