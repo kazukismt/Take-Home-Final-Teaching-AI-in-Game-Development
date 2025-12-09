@@ -1,6 +1,10 @@
 Rui Tao
 CSYE 7270
 2025-12-8
+Download Full UE5 Project
+The complete project with Content folder can be downloaded from:
+   Releases → TakehomeFinal.zip
+Extract and double-click TakehomeFinal.uproject to run.
 
 # Take-Home-Final-Teaching-AI-in-Game-Development (Unreal Engine 5, Blueprint)
 
