@@ -15,6 +15,11 @@ OR
 
 > After downloading, unzip and open `TakehomeFinal.uproject` to run.
 
+🎬 Video Download
+Available in GitHub Releases:
+https://github.com/kazukismt/Take-Home-Final-Teaching-AI-in-Game-Development/releases/tag/v1.0-video
+
+
 # Take-Home-Final-Teaching-AI-in-Game-Development (Unreal Engine 5, Blueprint)
 
 This repository contains a teaching-oriented AI system implemented in Unreal Engine 5.5 using Behavior Trees and Blueprints.  
