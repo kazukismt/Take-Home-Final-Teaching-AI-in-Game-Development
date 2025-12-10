@@ -15,9 +15,10 @@ OR
 
 > After downloading, unzip and open `TakehomeFinal.uproject` to run.
 
-🎬 Video Download
-Available in GitHub Releases:
+### 🎬 Download Show-and-Tell Video
+Available here in GitHub Releases ⬇  
 https://github.com/kazukismt/Take-Home-Final-Teaching-AI-in-Game-Development/releases/tag/v1.0-video
+
 
 
 # Take-Home-Final-Teaching-AI-in-Game-Development (Unreal Engine 5, Blueprint)
